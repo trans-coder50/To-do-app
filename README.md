@@ -1,4 +1,4 @@
-# Technologies used in this project
+## Technologies used in this project
 python, django,django rest framework, vue.js, axios
 ## Commands
 ### For backend file
